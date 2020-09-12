@@ -2,14 +2,12 @@
 
 - 🔭 I’m currently working as an SQA Engineer mainly focused on Test Automation
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Improve, Improve and Innovate
 - ⚡ Fun fact: I love to read!
 
 ### Connect with me:
 
 [<img align="left" alt="jazzilll | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jazzilll | Dev.to" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev.to]
 
 <br />
 
